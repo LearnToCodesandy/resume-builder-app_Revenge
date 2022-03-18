@@ -2,9 +2,9 @@
 -----
 Implemented
 -----
--[x] State (no redux or context api)
--[x] useEffect and useState (hook)
--[x] routing
+[x] State (no redux or context api)
+[x] useEffect and useState (hook)
+[x] routing
 
 
 Not Implemented
